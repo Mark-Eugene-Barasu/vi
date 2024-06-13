@@ -1,4 +1,4 @@
-# This is a cool repo
+# This is a cool repo.
 
 <!-- here is the link to the deployed website -->
 <!-- https://mark-eugene-barasu.github.io/vi/ -->
